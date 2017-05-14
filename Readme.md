@@ -5,4 +5,4 @@ This repo will contain how to, snippets and explanations on different pieces of 
 ## Index
 
 - [Node](/Node/Readme.md)
-    - [01 NodeJS Profiling](/Node/01-nodejs-profiling.md)
+    - [01 NodeJS Profiling](/Node/1.NodeJSProfiling)
