@@ -1,0 +1,15 @@
+{
+  "name": "node-profiler-example",
+  "version": "1.0.0",
+  "description": "An example on how to use node's profiler",
+  "main": "index.js",
+  "author": "Matteo Hertel",
+  "license": "MIT",
+  "scripts": {
+    "profile": "node --prof index.js",
+    "analyse": "node --prof-process"
+  },
+  "dependencies": {
+    "crypto": "^0.0.3"
+  }
+}
