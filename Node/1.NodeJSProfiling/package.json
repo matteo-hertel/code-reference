@@ -2,11 +2,12 @@
   "name": "node-profiler-example",
   "version": "1.0.0",
   "description": "An example on how to use node's profiler",
-  "main": "index.js",
+  "main": "",
   "author": "Matteo Hertel",
   "license": "MIT",
   "scripts": {
-    "profile": "node --prof index.js",
+    "profile-bad-script": "node --prof bad.js",
+    "profile-good-script": "node --prof good.js",
     "analyse": "node --prof-process"
   },
   "dependencies": {
