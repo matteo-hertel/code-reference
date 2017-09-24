@@ -5,9 +5,9 @@ This repo will contain how to, snippets and explanations on different pieces of 
 ## Index
 
 - [Node](/Node/Readme.md)
-    - [01 NodeJS Profiling](/Node/1.NodeJSProfiling)
+    - [0 NodeJS Profiling](/Node/0.NodeJSProfiling)
 - [PHP](/PHP/Readme.md)
-    - [01 Pyramid](/PHP/1.Pyramid)
+    - [0 Pyramid](/PHP/0.Pyramid)
 - [JS](/JS/Readme.md)
-    - [01 Mouse Events](/JS/1.MouseEvents)
-    - [02 Speech Recognition](/JS/2.SpeechRecognition)
+    - [0 Mouse Events](/JS/0.MouseEvents)
+    - [1 Speech Recognition](/JS/1.SpeechRecognition)
