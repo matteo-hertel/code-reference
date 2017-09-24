@@ -10,3 +10,4 @@ This repo will contain how to, snippets and explanations on different pieces of 
     - [01 Pyramid](/PHP/1.Pyramid)
 - [JS](/JS/Readme.md)
     - [01 Mouse Events](/JS/1.MouseEvents)
+    - [02 Speech Recognition](/JS/2.SpeechRecognition)
